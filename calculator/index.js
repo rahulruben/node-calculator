@@ -1,3 +1,1 @@
-var Calculator = require('./calculator');
-
-module.exports = Calculator;
+module.exports = require('./calculator');
